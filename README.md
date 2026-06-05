@@ -102,7 +102,7 @@ The project is structured across **3 modules**: Python (cleaning + EDA), SQL (qu
 
 > 80+ patients have the highest rate at 12.31% — nearly 2.5× the rate of patients under 18.
 
-![Readmission Rate by Age Group](visuals/readmission_by_age.png)
+![Readmission Rate by Age Group](visuals/readmission_by_age_group.png)
 
 ### Risk Tier Validation
 
